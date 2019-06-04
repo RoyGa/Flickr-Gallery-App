@@ -3,7 +3,7 @@
 Welcome to the Flickr Gallery application.
 This app is a simple gallery application that displays images in a grid. The images are retrieved using the Flickr API to fetch images by a tag.
 
-##Some key features I implemented:
+## Some key features I implemented:
 
 ### Image Actions
 Each image has three buttons that appear on mouse hover:
