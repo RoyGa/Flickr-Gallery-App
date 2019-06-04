@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:700');
+
+body, html {
+  padding: 0;
+  margin: 0;
+}
+
+.app-root {
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+}
+
+.app-header {
+  background-color: #222;
+  padding: 10px;
+  color: white;
+  font-size: 20pt;
+}
+
+.app-input {
+  line-height: 30px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+  padding: 0 8px;
+  color: #666;
+  width: 400px;
+  margin-bottom: 30px;
+}
+
+.pink-dot {
+  height: 25px;
+  width: 25px;
+  background-color: #FF0084;
+  border-radius: 1cm;
+  display: inline-block;
+  margin-left: 5px
+}
+.blue-dot {
+  height: 25px;
+  width: 25px;
+  background-color: #0063DB;
+  border-radius: 1cm;
+  display: inline-block;
+  margin-left: 5px
+  
+}
+
+.dots-container {
+  display: inline-block;
+  align-content: center;
+  align-items: center;
+  height: 30px;
+  width:70px;
+  margin: 0;
+  padding: 0;
+}
